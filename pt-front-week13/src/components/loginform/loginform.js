@@ -8,7 +8,7 @@ export default function loginform() {
         <br />
         <input className="login-input" type="password" placeholder="Password" />
         <br />
-        <button className="login-input">Login</button>
+        <button className="login-input" type="submit">Login</button>
     </div>
   )
 }

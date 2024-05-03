@@ -31,7 +31,7 @@
 .main
 {
   /* Gradient */
-  background-image: linear-gradient(to bottom, rgb(35, 39, 43), rgb(27, 30, 33));
+  background-image: linear-gradient(to bottom, rgb(35, 39, 43), rgb(21, 24, 26));
 
   height: 94vh;
   display: flex;
